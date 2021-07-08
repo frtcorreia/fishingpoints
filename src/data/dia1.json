@@ -1,0 +1,505 @@
+[
+    {
+        "day": 1,
+        "type": 1,
+        "typeText": "Pedra",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.239583,
+            "longitude": -7.339806
+        },
+        "color": "violet",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'22.5%22N+7%C2%B020'23.3%22W/@38.2395741,-7.3403652,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.239573!4d-7.3398178"
+    },
+    {
+        "day": 1,
+        "type": 1,
+        "typeText": "Pedra",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.242528,
+            "longitude": -7.345944
+        },
+        "color": "violet",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'33.1%22N+7%C2%B020'45.4%22W/@38.2425191,-7.3464972,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2425177!4d-7.3459503"
+    },
+    {
+        "day": 1,
+        "type": 1,
+        "typeText": "Pedra",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.247250,
+            "longitude": -7.364306
+        },
+        "color": "violet",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'50.1%22N+7%C2%B021'51.5%22W/@38.2472371,-7.3648562,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2472364!4d-7.3643086"
+    },
+    {
+        "day": 1,
+        "type": 1,
+        "typeText": "Pedra",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.242056,
+            "longitude": -7.369667
+        },
+        "color": "violet",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'31.4%22N+7%C2%B022'10.8%22W/@38.2420521,-7.3702122,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2420514!4d-7.3696645"
+    },
+    {
+        "day": 1,
+        "type": 1,
+        "typeText": "Pedra",
+        "coordinates": {
+            "latitude": 38.240083,
+            "longitude": -7.370167
+        },
+        "color": "violet",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'24.3%22N+7%C2%B022'12.6%22W/@38.2400951,-7.3707212,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2400935!4d-7.3701741"
+    },
+    {
+        "day": 1,
+        "type": 1,
+        "typeText": "Pedra",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.240083,
+            "longitude": -7.371583
+        },
+        "color": "violet",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'24.3%22N+7%C2%B022'17.7%22W/@38.2400711,-7.3721372,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2400696!4d-7.3715903"
+    },
+    {
+        "day": 1,
+        "type": 1,
+        "typeText": "Pedra",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.251167,
+            "longitude": -7.406556
+        },
+        "color": "violet",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'04.2%22N+7%C2%B024'23.6%22W/@38.2511681,-7.4071142,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2511675!4d-7.406567"
+    },
+    {
+        "day": 1,
+        "type": 2,
+        "typeText": "Ervas",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.256583,
+            "longitude": -7.387250
+        },
+        "color": "orange",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'23.7%22N+7%C2%B023'14.1%22W/@38.2565718,-7.3881722,439m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2565701!4d-7.3872516"
+    },
+    {
+        "day": 1,
+        "type": 2,
+        "typeText": "Ervas",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.256583,
+            "longitude": -7.387250
+        },
+        "color": "orange",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'23.7%22N+7%C2%B023'14.1%22W/@38.2565718,-7.3881722,439m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2565701!4d-7.3872516"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.256361,
+            "longitude": -7.388778
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'22.9%22N+7%C2%B023'19.6%22W/@38.2563551,-7.3893222,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2563544!4d-7.3887748"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.247306,
+            "longitude": -7.359361
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'50.3%22N+7%C2%B021'33.7%22W/@38.2473141,-7.3598942,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2473125!4d-7.3593467"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.243833,
+            "longitude": -7.347833
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'37.8%22N+7%C2%B020'52.2%22W/@38.2438441,-7.3483722,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2438433!4d-7.3478247"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.239639,
+            "longitude": -7.337167
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'22.7%22N+7%C2%B020'13.8%22W/@38.2396501,-7.3377062,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2396493!4d-7.3371593"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.239833,
+            "longitude": -7.336139
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'23.4%22N+7%C2%B020'10.1%22W/@38.2398441,-7.3366852,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.239843!4d-7.3361376"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.238972,
+            "longitude": -7.339583
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'20.3%22N+7%C2%B020'22.5%22W/@38.2389681,-7.3401332,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2389667!4d-7.3395865"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.239278,
+            "longitude": -7.339583
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'21.4%22N+7%C2%B020'22.5%22W/@38.2392841,-7.3401192,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2392833!4d-7.3395722"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.247111,
+            "longitude": -7.386944
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'49.6%22N+7%C2%B023'13.0%22W/@38.2471111,-7.3874882,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2471099!4d-7.3869408"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.238472,
+            "longitude": -7.385139
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'18.5%22N+7%C2%B023'06.5%22W/@38.2384661,-7.3856772,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2384647!4d-7.3851297"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.239917,
+            "longitude": -7.387583
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'23.7%22N+7%C2%B023'15.3%22W/@38.2399111,-7.3881352,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2399102!4d-7.3875881"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.242306,
+            "longitude": -7.394083
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'32.3%22N+7%C2%B023'38.7%22W/@38.2423021,-7.3946292,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2423006!4d-7.3940822"
+    },
+    {
+        "day": 1,
+        "type": 3,
+        "typeText": "Arvore",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.247722,
+            "longitude": -7.400389
+        },
+        "color": "green",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'51.8%22N+7%C2%B024'01.4%22W/@38.2477171,-7.4009462,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2477164!4d-7.4003993"
+    },
+    {
+        "day": 1,
+        "type": 4,
+        "typeText": "Muro",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.255139,
+            "longitude": -7.369861
+        },
+        "color": "tan",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'18.5%22N+7%C2%B022'11.5%22W/@38.2551371,-7.3703972,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2551358!4d-7.3698499"
+    },
+    {
+        "day": 1,
+        "type": 4,
+        "typeText": "Muro",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.241222,
+            "longitude": -7.348417
+        },
+        "color": "tan",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'28.4%22N+7%C2%B020'54.3%22W/@38.2412281,-7.3489502,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2412268!4d-7.3484029"
+    },
+    {
+        "day": 1,
+        "type": 4,
+        "typeText": "Muro",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.245361,
+            "longitude": -7.362306
+        },
+        "color": "tan",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'43.3%22N+7%C2%B021'44.3%22W/@38.2453501,-7.3628652,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2453492!4d-7.3623177"
+    },
+    {
+        "day": 1,
+        "type": 4,
+        "typeText": "Muro",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.246639,
+            "longitude": -7.363861
+        },
+        "color": "tan",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'47.9%22N+7%C2%B021'49.9%22W/@38.2466521,-7.3643942,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2466513!4d-7.3638472"
+    },
+    {
+        "day": 1,
+        "type": 4,
+        "typeText": "Muro",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.244278,
+            "longitude": -7.380250
+        },
+        "color": "tan",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'39.4%22N+7%C2%B022'48.9%22W/@38.2442641,-7.3807892,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2442634!4d-7.3802421"
+    },
+    {
+        "day": 1,
+        "type": 4,
+        "typeText": "Muro",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.243972,
+            "longitude": -7.391889
+        },
+        "color": "tan",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'38.3%22N+7%C2%B023'30.8%22W/@38.2439742,-7.3940637,878m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2439704!4d-7.3918751"
+    },
+    {
+        "day": 1,
+        "type": 4,
+        "typeText": "Muro",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.243778,
+            "longitude": -7.391306
+        },
+        "color": "tan",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'37.6%22N+7%C2%B023'28.7%22W/@38.2437801,-7.3918472,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2437791!4d-7.3912999"
+    },
+    {
+        "day": 1,
+        "type": 4,
+        "typeText": "Muro",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.245444,
+            "longitude": -7.395000
+        },
+        "color": "tan",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'43.6%22N+7%C2%B023'42.0%22W/@38.2454321,-7.3955552,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2454312!4d-7.3950079"
+    },
+    {
+        "day": 1,
+        "type": 4,
+        "typeText": "Muro",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.251417,
+            "longitude": -7.408000
+        },
+        "color": "tan",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'05.1%22N+7%C2%B024'28.8%22W/@38.2514201,-7.4085582,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2514186!4d-7.408011"
+    },
+    {
+        "day": 1,
+        "type": 5,
+        "typeText": "Cabeço",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.253083,
+            "longitude": -7.368667
+        },
+        "color": "blue",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'11.1%22N+7%C2%B022'07.2%22W/@38.2530721,-7.3692082,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2530708!4d-7.3686609"
+    },
+    {
+        "day": 1,
+        "type": 5,
+        "typeText": "Cabeço",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.251472,
+            "longitude": -7.366528
+        },
+        "color": "blue",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'05.3%22N+7%C2%B021'59.5%22W/@38.2514751,-7.3670612,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.251474!4d-7.3665139"
+    },
+    {
+        "day": 1,
+        "type": 5,
+        "typeText": "Cabeço",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.248583,
+            "longitude": -7.376889
+        },
+        "color": "blue",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'54.9%22N+7%C2%B022'36.8%22W/@38.2485721,-7.3774312,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.248571!4d-7.3768843"
+    },
+    {
+        "day": 1,
+        "type": 5,
+        "typeText": "Cabeço",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.241194,
+            "longitude": -7.386833
+        },
+        "color": "blue",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'28.3%22N+7%C2%B023'12.6%22W/@38.2412071,-7.3873892,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2412063!4d-7.3868417"
+    },
+    {
+        "day": 1,
+        "type": 5,
+        "typeText": "Cabeço",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.251194,
+            "longitude": -7.391194
+        },
+        "color": "blue",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'04.3%22N+7%C2%B023'28.3%22W/@38.2512002,-7.3933727,878m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2511961!4d-7.391184"
+    },
+    {
+        "day": 1,
+        "type": 5,
+        "typeText": "Cabeço",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.248667,
+            "longitude": -7.392028
+        },
+        "color": "blue",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'55.2%22N+7%C2%B023'31.3%22W/@38.2486642,-7.3942097,878m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2486599!4d-7.3920209"
+    },
+    {
+        "day": 1,
+        "type": 5,
+        "typeText": "Cabeço",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.251417,
+            "longitude": -7.393278
+        },
+        "color": "blue",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'05.1%22N+7%C2%B023'35.8%22W/@38.2514192,-7.3954547,878m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2514151!4d-7.3932655"
+    },
+    {
+        "day": 1,
+        "type": 5,
+        "typeText": "Cabeço",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.252194,
+            "longitude": -7.395556
+        },
+        "color": "blue",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'07.9%22N+7%C2%B023'44.0%22W/@38.2521991,-7.3961112,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2521981!4d-7.3955636"
+    },
+    {
+        "day": 1,
+        "type": 6,
+        "typeText": "Lingua de areia",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.246778,
+            "longitude": -7.370472
+        },
+        "color": "yellow",
+        "url": "https://www.google.pt/maps/place/38%C2%B014'48.4%22N+7%C2%B022'13.7%22W/@38.2467891,-7.3710292,219m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.246788!4d-7.3704816"
+    },
+    {
+        "day": 1,
+        "type": 6,
+        "typeText": "Lingua de areia",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.252917,
+            "longitude": -7.400583
+        },
+        "color": "yellow",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'10.5%22N+7%C2%B024'02.1%22W/@38.2529133,-7.4012287,439m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2529119!4d-7.4005777"
+    },
+    {
+        "day": 1,
+        "type": 6,
+        "typeText": "Lingua de areia",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.254417,
+            "longitude": -7.405139
+        },
+        "color": "yellow",
+        "url": "https://www.google.pt/maps/place/38%C2%B015'15.9%22N+7%C2%B024'18.5%22W/@38.2544211,-7.4062353,439m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d38.2544193!4d-7.4051409"
+    },
+    {
+        "day": 1,
+        "type": 7,
+        "typeText": "PONTOS DO PEIXOLAS",
+        "image": "",
+        "coordinates": {
+            "latitude": 38.264444,
+            "longitude": -7.393111
+        },
+        "color": "red",
+        "url": ""
+    } 
+]

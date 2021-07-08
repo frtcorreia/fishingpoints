@@ -2,13 +2,13 @@
   "expo": {
     "name": "FishingApp2",
     "slug": "FishingApp2",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/fishing.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/fishing.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#4B4E6D"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,13 +20,19 @@
       "supportsTablet": true
     },
     "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyD5I8mTBzdZ86oUbmuv0Hq7Dtw9ilRWcKE"
+        }
+      },
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "foregroundImage": "./assets/fishing.png",
+        "backgroundColor": "#4B4E6D"
+      },
+      "package": "com.frtcorreia.FishingApp2"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/fishing.png"
     }
   }
 }
