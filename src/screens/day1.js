@@ -19,15 +19,6 @@ export function Day1() {
       setLocation(location2);
     })();
   }, []);
-  /**
-   * 1 - corte de pedra / rochas
-   * 2 - ervas
-   * 3 - arvores
-   * 4 - muros
-   * 5 - cabeços
-   * 6 - linguas de areia
-   * 7 - peixolas
-   */
 
   const OpenWEB = (url) => {
     Linking.openURL(url);
